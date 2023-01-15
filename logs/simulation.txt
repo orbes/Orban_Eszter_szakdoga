@@ -1,0 +1,322 @@
+Start
+Csomag generálás kezdés 
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 67.29691743850708 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 136.74389243125916 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 160.69633722305298 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 187.6321907043457 seconds
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 68.88198900222778 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 117.90070676803589 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 138.4585165977478 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 172.06817865371704 seconds
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 67.25593733787537 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 129.4859983921051 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 160.03846859931946 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 181.85822582244873 seconds
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 67.39586973190308 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 134.58404803276062 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 161.2557029724121 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 181.35306525230408 seconds
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 67.40090250968933 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 137.1579704284668 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 153.27072715759277 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 176.47051358222961 seconds
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 67.06676268577576 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 115.97325110435486 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 141.411527633667 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 190.37670493125916 seconds
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 67.51429486274719 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 130.66442346572876 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 151.27550148963928 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 187.66873455047607 seconds
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 72.56782722473145 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 109.71535992622375 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 137.92336750030518 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 177.92839121818542 seconds
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 69.8337516784668 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 120.5485246181488 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 160.9758689403534 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 190.57957100868225 seconds
+intelligens nodok szama: 0
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 69.66476535797119 seconds
+intelligens nodok szama: 2
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 114.72794437408447 seconds
+intelligens nodok szama: 4
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 152.27931880950928 seconds
+intelligens nodok szama: 10
+l = 10
+l = 15
+l = 20
+l = 25
+l = 30
+l = 35
+Futási idõ: 191.58156943321228 seconds
